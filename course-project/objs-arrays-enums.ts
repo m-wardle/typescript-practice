@@ -1,3 +1,5 @@
+export {};
+
 // Note that assigning 'const person: object = ...' does not work as one might expect
 
 // Typescript only looks for an object and does not recognize the contents. Need to either explicitly assign the types to key/value pairs or let type inference do its work.

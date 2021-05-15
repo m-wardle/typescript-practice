@@ -23,3 +23,4 @@ const combinedStringAges = combine("20", "22", "as-number");
 console.log("Combined Ages as string: ", combinedStringAges);
 const combinedNames = combine("Max", "Anna", "as-string");
 console.log("Combined Names: ", combinedNames);
+export {};

@@ -28,6 +28,7 @@ const person = {
 // person.role = [0, "these don't", 3]
 // const arrayTest: (string | number)[] = ["test", 2];
 console.log(person.role);
+export {};
 // for (const hobby of person.hobbies) {
 //   console.log(hobby.toUpperCase());
 //   Can get autocompletes for type-specific functions!
