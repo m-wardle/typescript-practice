@@ -36,3 +36,4 @@ let test2 = addAndHandle(10, 20, (result) => {
     return result;
     // Doesn't throw an error despite declaring above that the callback should return "void", as we're not really doing anything witht he return value. Still, unnecessary return.
 });
+export {};
